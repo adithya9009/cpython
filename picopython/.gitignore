@@ -1,0 +1,13 @@
+build/
+build-*/
+*.bin
+*.dis
+*.elf
+*.hex
+*.map
+*.uf2
+*.log
+.ninja_*
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
